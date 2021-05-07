@@ -1,6 +1,6 @@
 let currentQuestion = 0;
 let quizApi =
-  "https://quizapi.io/api/v1/questions?apiKey=E1FE4Zmp1kcYQll969Ocsi6oGkN9vttPatRHnF9l&difficulty=medium&limit=10&category=Code";
+  "https://quizapi.io/api/v1/questions?apiKey=E1FE4Zmp1kcYQll969Ocsi6oGkN9vttPatRHnF9l&difficulty=medium&limit=10";
 
 function getQuiz() {
   let correctQuestion = 0;
